@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@bacondotbuild/ui": "^0.2.0",
+    "@bacondotbuild/ui": "^0.3.1",
     "@tanstack/react-query": "^4.20.2",
     "@trpc/client": "^10.9.0",
     "@trpc/next": "^10.9.0",
